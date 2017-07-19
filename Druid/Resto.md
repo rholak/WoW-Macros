@@ -1,0 +1,27 @@
+== LifeBloom/Cenarian Ward/Sunfire 
+#showtooltip
+/use [mod:shift,@mouseover,help]Cenarion Ward;[@mouseover,harm,nodead]Sunfire;[@mouseover,help]Lifebloom;[mod:shift,help]Cenarion Ward;[harm,nodead]Sunfire;[]Lifebloom
+
+== Rejuv / Moonfire
+#showtooltip
+/use [@mouseover,harm,nodead]Moonfire;[@mouseover,help]Rejuvenation;[harm,nodead]Moonfire;[]Rejuvenation
+
+== Regrowth / Wrath
+#showtooltip
+/use [@mouseover,harm,nodead]Solar Wrath;[@mouseover,help]Regrowth;[harm,nodead]Solar Wrath;[]Regrowth
+
+== Healing Touch
+#showtooltip
+/use [@mouseover,help][help,nodead][@mouseover,help][]Healing Touch
+
+== Wild Growth
+#showtooltip
+/use [@mouseover,help][help,nodead][@mouseover,help][]Wild Growth
+
+== Swiftmend
+#showtooltip
+/use [@mouseover,help,][help,nodead][@mouseover,help][]Swiftmend
+
+== Nature's Cure
+#showtooltip
+/use [@mouseover,harm,][harm,nodead][@mouseover,help][]Nature's Cure
