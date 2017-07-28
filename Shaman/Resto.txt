@@ -1,0 +1,15 @@
+== Riptide/Lightning Bolt
+#showtooltip
+/use [@mouseover,harm,nodead]Lightning Bolt;[@mouseover,help]Riptide;[harm,nodead]Lightning Bolt;[]Riptide
+
+== Healing Wave / Lava Burst
+#showtooltip
+/use [@mouseover,harm,nodead]Lava Burst;[@mouseover,help]Healing Wave;[harm,nodead]Lava Burst;[]Healing Wave
+
+== Healing Surge / Flame Shock
+#showtooltip
+/use [@mouseover,harm,nodead]Flame Shock;[@mouseover,help]Healing Surge;[harm,nodead]Flame Shock;[]Healing Surge
+
+== Chain Heal / Chain Lightning
+#showtooltip
+/use [@mouseover,harm,nodead]Chain Lightning;[@mouseover,help]Chain Heal;[harm,nodead]Chain Lightning;[]Chain Heal
