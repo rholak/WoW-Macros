@@ -1,10 +1,10 @@
-== LifeBloom/Cenarian Ward/Sunfire 
+== LifeBloom/Cenarian Ward/Moonfire 
 #showtooltip
-/use [mod:shift,@mouseover,help]Cenarion Ward;[@mouseover,harm,nodead]Sunfire;[@mouseover,help]Lifebloom;[mod:shift,help]Cenarion Ward;[harm,nodead]Sunfire;[]Lifebloom
+/use [mod:shift,@mouseover,help]Cenarion Ward;[@mouseover,harm,nodead]Moonfire;[@mouseover,help]Lifebloom;[mod:shift,help]Cenarion Ward;[harm,nodead]Moonfire;[]Lifebloom
 
-== Rejuv / Moonfire
+== Rejuv / Sunfire
 #showtooltip
-/use [@mouseover,harm,nodead]Moonfire;[@mouseover,help]Rejuvenation;[harm,nodead]Moonfire;[]Rejuvenation
+/use [@mouseover,harm,nodead]Sunfire;[@mouseover,help]Rejuvenation;[harm,nodead]Sunfire;[]Rejuvenation
 
 == Regrowth / Wrath
 #showtooltip
